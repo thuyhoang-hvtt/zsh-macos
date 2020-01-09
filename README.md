@@ -2,4 +2,4 @@
 
 # ZSH theme for MacOs
 
-# @author - `thuyhoang.hvtt@gmail.com`
+@author - `thuyhoang.hvtt@gmail.com`
